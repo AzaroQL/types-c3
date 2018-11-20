@@ -1,0 +1,33 @@
+{
+  "contributors": [
+    {
+      "name": "Marc Climent",
+      "url": "https://github.com/mcliment"
+    },
+    {
+      "name": "Gerin Jacob",
+      "url": "https://github.com/gerinjacob"
+    },
+    {
+      "name": "Bernd Hacker",
+      "url": "https://github.com/denyo"
+    },
+    {
+      "name": "Dzmitry Shyndzin",
+      "url": "https://github.com/dmitryshindin"
+    }
+  ],
+  "dependencies": {
+    "@types/d3": "^3"
+  },
+  "description": "Fork of TypeScript definitions for C3js",
+  "license": "MIT",
+  "main": "",
+  "name": "types-c3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AzaroQL/types-c3.git"
+  },
+  "scripts": {},
+  "version": "0.1"
+}
