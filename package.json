@@ -1,4 +1,6 @@
 {
+  "name": "types-c3",
+  "version": "0.1.0",
   "contributors": [
     {
       "name": "Marc Climent",
@@ -23,11 +25,9 @@
   "description": "Fork of TypeScript definitions for C3js",
   "license": "MIT",
   "main": "",
-  "name": "types-c3",
   "repository": {
     "type": "git",
     "url": "https://github.com/AzaroQL/types-c3.git"
   },
-  "scripts": {},
-  "version": "0.1"
+  "scripts": {}
 }
