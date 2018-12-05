@@ -781,6 +781,12 @@ export interface ZoomOptions {
      */
     extent?: [number, number];
     /**
+     * Disable the default animation of zoom.
+     * This option is useful when you want to get the zoomed domain by onzoom or onzoomend handlers and override the default animation behavior.
+     * See #2439 for details.
+     */
+    disableDefaultBehavior?: boolean;
+    /**
      * Set callback that is called when the chart is zooming. Specified function receives the zoomed domain.
      */
     onzoom?(domain: any): void;
